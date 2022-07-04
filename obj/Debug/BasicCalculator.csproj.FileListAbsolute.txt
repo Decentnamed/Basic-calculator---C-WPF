@@ -1,0 +1,16 @@
+D:\PROJEKTY\C#\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+D:\PROJEKTY\C#\BasicCalculator\bin\Debug\BasicCalculator.exe
+D:\PROJEKTY\C#\BasicCalculator\bin\Debug\BasicCalculator.pdb
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\MainWindow.g.cs
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\App.g.cs
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator_MarkupCompile.cache
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator_MarkupCompile.lref
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\App.baml
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\MainWindow.baml
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator.g.resources
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator.exe
+D:\PROJEKTY\C#\BasicCalculator\obj\Debug\BasicCalculator.pdb
